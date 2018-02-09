@@ -1,2 +1,1 @@
-# N-RV424
-M-Core
+# This is the Omega Script
